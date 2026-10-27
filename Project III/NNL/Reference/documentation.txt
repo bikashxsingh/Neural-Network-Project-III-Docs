@@ -1,0 +1,5 @@
+numpy for matrix multiplication
+tkinter for animation
+matplotlib for graph
+sklearn for dataset
+pillow (PIL) for image manipulation

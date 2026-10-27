@@ -1,0 +1,6 @@
+numpy
+sklearn
+matplotlib
+sklearn
+pillow
+pygame
